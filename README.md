@@ -1,4 +1,4 @@
-Session 5 Assignment - E-App
+**Session 5 Assignment - E-App**
 
 **Home Page**
 ![Home Page](https://github.com/dilnasthahir/Session-5/assets/96134519/224a703f-d38b-418d-8d89-5fdfad082f03)
